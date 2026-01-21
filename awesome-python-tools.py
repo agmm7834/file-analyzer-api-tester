@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
 """
-Python Swiss Army Knife - Barcha funksiyalar bitta faylda
-Muallif: GitHub foydalanuvchisi
-Versiya: 1.0.0
-
 Funksiyalar:
 1. Fayl Tizimi Analizatori
 2. HTTP Client va API Tester
